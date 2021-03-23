@@ -1,0 +1,2 @@
+# daily
+Convenient for myself
